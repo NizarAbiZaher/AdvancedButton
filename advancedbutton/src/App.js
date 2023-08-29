@@ -16,7 +16,7 @@ function App() {
       <Button 
         handleClick={increaseButton}
         text="Increase"
-        className="increase"
+        className="increasesa"
       />
       <Button 
         handleClick={decreaseButton}
